@@ -57,6 +57,6 @@ Thank you for visiting my repository!
 
 If you have any questions or feedback about these projects or my internship experience at Codsoft, feel free to reach out to me.
 
-- Email: your.email@example.com
+- Email: santoshbaral543@gmail.com
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/santosh-ku-baral)
 - GitHub: [Your GitHub Profile](https://github.com/Santosh-kumar-Baral/)
