@@ -47,8 +47,6 @@ Each project in this repository has its own folder containing the source code an
 
 I am grateful to Codsoft for providing me with this opportunity, and I look forward to continuing my journey in the world of software development.
 
-Feel free to explore the individual project folders for more details on each application.
-
 Thank you for visiting my repository!
 
 -- Santosh kumar Baral
