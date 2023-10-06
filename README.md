@@ -51,12 +51,12 @@ Feel free to explore the individual project folders for more details on each app
 
 Thank you for visiting my repository!
 
--- Santosh Kumar Baral
+-- Santosh kumar Baral
 
 ## Contact
 
 If you have any questions or feedback about these projects or my internship experience at Codsoft, feel free to reach out to me.
 
 - Email: santoshbaral543@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/santosh-ku-baral)
-- GitHub: [Your GitHub Profile](https://github.com/Santosh-kumar-Baral/)
+- LinkedIn: [Santosh kumar Baral](www.linkedin.com/in/santosh-ku-baral)
+- GitHub: [Santosh-kumar-Baral](https://github.com/Santosh-kumar-Baral/)
