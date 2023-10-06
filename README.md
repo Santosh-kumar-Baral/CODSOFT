@@ -8,7 +8,7 @@ Codsoft is a leading software development company dedicated to fostering talent 
 
 ## Project Overview
 
-### To-Do List Application
+### To-Do List 
 
 This project is a To-Do List application created using Python. It allows users to efficiently manage and organize their tasks. With this application, users can easily create, update, and track their to-do lists using a command-line or GUI-based interface.
 
@@ -19,7 +19,7 @@ This project is a To-Do List application created using Python. It allows users t
 - List all tasks or filter them by completion status or due date.
 - User-friendly interface for a seamless task management experience.
 
-### Simple Calculator
+### Calculator
 
 This Python project is a simple calculator that performs basic arithmetic operations. Users are prompted to input two numbers and select an operation of their choice. The calculator then calculates the result and displays it to the user.
 
@@ -43,9 +43,7 @@ The Password Generator is a Python application that generates strong and random 
 
 Each project in this repository has its own folder containing the source code and instructions on how to run the application. Please refer to the respective project folders for detailed usage instructions.
 
-## My Internship Experience
-
-Working on these Python projects during my internship at Codsoft has been an invaluable experience. I have had the opportunity to apply my programming skills to real-world problems, collaborate with a talented team of developers, and learn from experienced mentors. This internship has not only enhanced my technical skills but also improved my problem-solving abilities and project management capabilities.
+## Acknowledgments
 
 I am grateful to Codsoft for providing me with this opportunity, and I look forward to continuing my journey in the world of software development.
 
